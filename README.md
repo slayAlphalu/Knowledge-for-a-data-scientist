@@ -28,3 +28,5 @@ booklist: case in point， Case Interview Secrets
 audio: [look over my shoulder](http://www.ximalaya.com/5269453/album/6414597/)
 
 [Product design](https://classroom.udacity.com/courses/ud509)
+
+[AB TESTING](https://classroom.udacity.com/courses/ud257)
