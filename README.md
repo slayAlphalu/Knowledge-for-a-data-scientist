@@ -3,12 +3,21 @@ This repo includes a wide range of knowledge that is essential for anyone who de
 
 ## dream company
 
-**1st class:** : Facebook Google(just dream) Apple 
+**1st class:** : Facebook Google(just dream) Apple Airbnb Yelp
+
+**2st class:** : Alibaba Tencent Twitter Uber 
+
+**3st class:** : Adobe Linkin Amazon
+
+
+
 ## To do list for Alpha Lu to be a data scientist:
 
 ### ability to deal with data
 
 leetcode SQL+RDBMS
+
+python
 
 ### produc sense
 
