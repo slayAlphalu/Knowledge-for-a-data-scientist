@@ -7,7 +7,9 @@ This repo includes a wide range of knowledge that is essential for anyone who de
 
 **2st class:** : Alibaba Tencent Twitter Uber 
 
-**3st class:** : Adobe Linkin Amazon
+**3st class:** : Adobe Linkin Amazon dropbox
+
+**others**: ....🙃🙃🙃
 
 
 
@@ -17,7 +19,7 @@ This repo includes a wide range of knowledge that is essential for anyone who de
 
 leetcode SQL+RDBMS
 
-python
+efficient pythoner
 
 ### produc sense
 
@@ -25,3 +27,7 @@ booklist: case in point， Case Interview Secrets
 
 audio: [look over my shoulder] (http://www.ximalaya.com/5269453/album/6414597/)
 
+[Product design]
+(https://classroom.udacity.com/courses/ud509
+
+)
