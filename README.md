@@ -31,3 +31,4 @@ audio: [look over my shoulder](http://www.ximalaya.com/5269453/album/6414597/)
 
 [AB TESTING](https://classroom.udacity.com/courses/ud257)
 [SHORT AB TESTING](https://classroom.udacity.com/courses/ud979)
+[REAL CASE](https://community.modeanalytics.com/sql/tutorial/sql-business-analytics-training/)
