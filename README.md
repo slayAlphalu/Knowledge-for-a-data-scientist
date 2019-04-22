@@ -1,5 +1,5 @@
 # Knowledge-for-a-data-scientist
-This repo includes a wide range of knowledge that is essential for anyone who desires to be a data scientist. 
+This repo includes a wide range of knowledge that is essential for anyone who desires to be a data scientist. up!up!up!
 
 ## dream company
 
