@@ -42,5 +42,6 @@ audio: [look over my shoulder](http://www.ximalaya.com/5269453/album/6414597/)
 
 
 ## Machine Learning
+[data mining](https://github.com/slayAlphalu/Knowledge-for-a-data-scientist/blob/master/数据挖掘.pdf)
 
 more and more!
